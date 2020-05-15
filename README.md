@@ -1,4 +1,4 @@
-[![NPath](https://raw.githubusercontent.com/npathapp/design/master/banner/npath-banner-github.png)](https://npath.io)
+[![NPath](https://raw.githubusercontent.com/npathhq/design/master/banner/npath-banner-github.png)](https://npath.io)
 
 # Design
 
